@@ -1,6 +1,14 @@
+#gb > div.gb_Nd.gb_4d.gb_Vd > div.gb_Tc.gb_Zd.gb_Ne.gb_Ce.gb_Ke > div.gb_Ee > form > div > input {
+    color: #dedede;
+}
+
 * {
     border-style: none;
     font-family: Google Sans;
+}
+
+.gb_1d.gb_Pe .gb_He .gb_Te {
+    background: #4d4d4d;
 }
 
 .gb_Xd.gb_Me .gb_De .gb_Qe {
@@ -66,6 +74,14 @@ div.gb_Md.gb_3d.gb_Ud {
     background-color: #2E2E2E;
 }
 
+div.gb_Nd.gb_4d.gb_Vd {
+    background-color: #303030;
+}
+
+div.gb_Pd.gb_6d.gb_Xd {
+    background-color: #333;
+}
+
 div.gb_uc {
     color: #dedede;
 }
@@ -84,6 +100,7 @@ div.neVct-Ne3sFf-fmcmS {
     color: #ffffff;
     font-family: Google Sans;
     font-weight: bold;
+    padding: 0.5em;
 }
 
 div.notranslate.IZ65Hb-YPqjbf.fmcmS-x3Eknd.CmABtb-YPqjbf {
@@ -114,13 +131,8 @@ div.x5ghY-MJoBVe-b0t70b-tJHJj {
     font-family: Google Sans;
 }
 
-form.gb_Ee.aSVJYc-G0jgYd-ZMv3u {
+form.gb_Re.aSVJYc-G0jgYd-ZMv3u {
     background-color: #424242;
-    color: #dedede;
-}
-
-form.gb_Pe.aSVJYc-G0jgYd-ZMv3u {
-    background-color: #2E2E2E;
 }
 
 img.gb_la.gb_Ud {
@@ -136,20 +148,6 @@ img.gkA7Yd-HiaYvf.HiaYvf-Vj7tjb {
     box-shadow: 0px 2px 1px 0px rgba(0,0,0,0.92);
 }
 
-input.gb_0e {
-    color: #dedede;
-    display: none;
-}
-
-input.gb_af {
-    filter: invert(85%);
-    font-size: 1.125em;
-}
-
-input.gb_bf {
-    color: #0a0a0a;
-}
-
 li.gb_Kc.gb_Qc.xl07Ob-ibnC6b.gk6SMd {
     background-color: #616161;
 }
@@ -160,6 +158,14 @@ li.gb_Lc.gb_Rc.xl07Ob-ibnC6b.gk6SMd {
 
 li.gb_zc.gb_Fc.xl07Ob-ibnC6b.gk6SMd {
     background-color: #262626;
+}
+
+li.xl07Ob-ibnC6b.gk6SMd {
+    background-color: #464646;
+}
+
+li.xl07Ob-ibnC6b.gk6SMd svg {
+    color: #f4b608;
 }
 
 span.gb_0c {
@@ -178,8 +184,20 @@ span.gb_Pc {
     color: #a3a3a3;
 }
 
+span.gb_Qc {
+    color: #949494;
+}
+
+span.gb_Sc {
+    color: #949494;
+}
+
 span.gvZm2b-NnAfwf {
     color: #f5a911;
+}
+
+span.x5ghY-MJoBVe-b0t70b-r4nke {
+    color: #8a8a8a;
 }
 
 ul.gb_Hc {
@@ -194,31 +212,15 @@ ul.gb_wc.x00ATb-JNdkSc {
     border-style: none;
 }
 
-div.gb_Nd.gb_4d.gb_Vd {
-    background-color: #303030;
+li.gb_Oc.gb_Uc.xl07Ob-ibnC6b:hover {
+    background: #2e2e2e;
 }
 
-span.gb_Qc {
-    color: #949494;
+span.gb_Sc:hover {
+    color: #F4B606;
 }
 
-form.gb_Re.aSVJYc-G0jgYd-ZMv3u {
-    background-color: #424242;
-}
-
-li.xl07Ob-ibnC6b.gk6SMd {
-    background-color: #464646;
-}
-
-li.xl07Ob-ibnC6b.gk6SMd svg {
-    color: #f4b608;
-}
-
-#gb > div.gb_Nd.gb_4d.gb_Vd > div.gb_Tc.gb_Zd.gb_Ne.gb_Ce.gb_Ke > div.gb_Ee > form > div > input {
-    color: #dedede;
-}
-
-input.gb_cf {
-    filter: invert(0.5) ;
+#gb > div.gb_Pd.gb_6d.gb_Xd > div.gb_Vc.gb_1d.gb_Pe.gb_Ee.gb_Me > div.gb_He > form > div {
+    filter: invert(0.85)
 }
 
